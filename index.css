@@ -356,6 +356,7 @@
 .rectangle-group:hover,
 .rectangle-parent:hover {
   background: linear-gradient(180deg, #f948b2, #8758f1);
+  border-radius: var(--br-base);
   color: var(--color-white);
   transition: 0.5s;
 }
